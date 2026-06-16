@@ -1,0 +1,7 @@
+Name,Age,Salary,Department,Email,Experience
+John,25.0,50000.0,HR,john@example.com,5.0
+Jane,30.0,60000.0,IT,jane@example.com,7.0
+Bob,28.0,55000.0,IT,bob@example.com,3.0
+Unknown,35.0,65000.0,HR,david@example.com,
+Alice,28.0,55000.0,Finance,alice@example.com,4.0
+Charlie,22.0,52000.0,Finance,charlie@example.com,2.0
